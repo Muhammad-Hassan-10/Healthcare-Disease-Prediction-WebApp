@@ -76,7 +76,7 @@ Healthcare-Disease-Prediction-System/
    
    ```bash
    git clone https://github.com/Muhammad-Hassan-10/Disease-Prediction-Model-Training.git
-   cd Healthcare-Disease-Prediction-System
+   cd Disease-Prediction-Model-Training
    ```
 
 2. **Create virtual environment (recommended)**
