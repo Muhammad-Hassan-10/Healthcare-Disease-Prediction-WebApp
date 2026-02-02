@@ -75,6 +75,7 @@ Healthcare-Disease-Prediction-System/
 1. **Open the projet folder**
    
    ```bash
+   git clone https://github.com/Muhammad-Hassan-10/Disease-Prediction-Model-Training.git
    cd Healthcare-Disease-Prediction-System
    ```
 
