@@ -1,0 +1,8 @@
+Model,Accuracy (%),Precision (%),Recall (%),F1-Score (%),CV Mean (%),CV Std (%),Accuracy_numeric
+Logistic Regression,94.58,95.38,94.58,94.44,95.52,0.85,94.58
+Linear SVM,96.67,96.95,96.67,96.61,95.94,1.25,96.67
+XGBoost,88.75,90.01,88.75,88.79,87.19,1.57,88.75
+Random Forest,95.00,95.39,95.00,94.92,95.10,1.30,95.0
+Multinomial Naive Bayes,94.17,94.82,94.17,94.01,92.92,1.34,94.17
+Gradient Boosting,82.92,87.05,82.92,83.93,83.12,1.88,82.92
+Neural Network (MLP),96.67,96.81,96.67,96.66,94.69,2.24,96.67

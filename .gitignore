@@ -1,0 +1,5 @@
+*.pkl
+.github
+.vscode
+venv
+checkpoints
