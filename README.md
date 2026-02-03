@@ -67,6 +67,9 @@ This system uses **Natural Language Processing (NLP)** and **Machine Learning** 
 ```
 Healthcare-Disease-Prediction-System/
 │
+├── database
+│   └── predictions.db             # Auto-generated
+│
 ├── dataset/
 │   └── Symptom2Disease.csv        # Raw dataset (1,200 samples)
 │
