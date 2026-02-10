@@ -1,4 +1,4 @@
-# 🏥 Healthcare Disease Prediction System
+# 🏥 HealthPredict (Symptoms-based Disease Prediction System)
 
 A complete machine learning system with web application for predicting diseases based on symptom descriptions. Built with Python, Flask, and Machine Learning.
 
@@ -65,7 +65,7 @@ This system uses **Natural Language Processing (NLP)** and **Machine Learning** 
 ## 📁 Project Structure
 
 ```
-Healthcare-Disease-Prediction-WebApp/
+HealthPredict/
 │
 ├── database
 │   └── predictions.db             # Auto-generated
@@ -114,8 +114,8 @@ Healthcare-Disease-Prediction-WebApp/
 1. **Open the projet folder**
    
    ```bash
-   git clone https://github.com/hassancodebase/Healthcare-Disease-Prediction-WebApp
-   cd Healthcare-Disease-Prediction-WebApp
+   git clone https://github.com/hassancodebase/HealthPredict
+   cd HealthPredict
    ```
 
 2. **Create virtual environment (recommended)**
@@ -224,7 +224,7 @@ You should see:
 
 ```
 ================================================================================
-🏥 Healthcare Disease Prediction System
+🏥 HealthPredict
 ================================================================================
 🚀 Starting Flask application...
 📍 Access the application at: http://localhost:5000
