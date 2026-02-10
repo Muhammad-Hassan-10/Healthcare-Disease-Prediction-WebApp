@@ -74,13 +74,8 @@ Healthcare-Disease-Prediction-WebApp/
 │   └── Symptom2Disease.csv        # Raw dataset (1,200 samples)
 │
 ├── models/                         # Saved models (generated after training)
-│   ├── logistic_regression_model.pkl
-│   ├── linear_svm_model.pkl
-│   ├── xgboost_model.pkl
-│   ├── random_forest_model.pkl
-│   ├── naive_bayes_model.pkl
-│   ├── gradient_boosting_model.pkl
-│   ├── neural_network_model.pkl
+│   └── (5+ models)
+│
 │   ├── tfidf_vectorizer.pkl       # TF-IDF vectorizer
 │   ├── label_info.pkl             # Label encoding info
 │   ├── metadata.pkl               # Model metadata
